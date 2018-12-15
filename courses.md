@@ -40,6 +40,14 @@ Course Link : https://www.coursera.org/learn/ml-clustering-and-retrieval
 
 Certification URL: https://www.coursera.org/account/accomplishments/verify/Q9ABP2U78XQ5
 
+## Practical Deep Learning for Coders Part 1 
+
+Course Link : https://course.fast.ai/lessons/lessons.html
+
+## Practical Deep Learning for Coders Part 2  (ongoing)
+
+Course Link : https://course.fast.ai/lessons/lessons2.html
+
 ## Object Oriented Java Programming: Data Structures and Beyond Specialization
 
 Specialization Completion Certificate: https://www.coursera.org/account/accomplishments/specialization/74NBUYNGDHK5
