@@ -6,6 +6,14 @@
 
 Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 
+## Image Source
+
+<img src="https://i.imgur.com/9xZtAPU.png" width="250" /> <img src="https://i.imgur.com/P1tdTeK.png" width="250" /> <img src="https://i.imgur.com/Pmis4zG.png" width="250" />
+
+Prediction Demo - https://youtu.be/Fe8uBVMcH8U
+
+Expo Link (download the <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">Expo app on Play Store</a> to try Image Source) - https://expo.io/@prasannals/image-source
+
 ## Echo
 
 ![Imgur](https://i.imgur.com/lL0j0hH.png)
@@ -16,13 +24,13 @@ Code and JAR Files (to execute the project) - https://github.com/prasannals/Echo
 
 ## Text Templates (available on Play Store)
 
-<img src="https://i.imgur.com/Ni8CS87.png" width=300 />
+<img src="https://i.imgur.com/Ni8CS87.png" width=270 /> <img src="https://i.imgur.com/6j5g8ka.png" width=270 /> <img src="https://i.imgur.com/ufWcDBG.png" width=270 />
 
 Check <a href="https://play.google.com/store/apps/details?id=texttemp.ps.texttemplates">Play Store</a> for more information, images, reviews and of course, do give it a try! 
 
 ## Nakshatra Creations (available on Play Store and App Store(soon))
 
-<img src="https://i.imgur.com/UGtD8kk.png" width=300 />
+<img src="https://i.imgur.com/UGtD8kk.png" width=300 /> <img src="https://i.imgur.com/i1SJoOm.png" width=300 />
 
 Check <a href="https://play.google.com/store/apps/details?id=org.nakshatracreations.app">Play Store</a> for more information, images and to try it out! Check Nakshatra Creations <a href="http://nakshatracreations.org/index.html">website</a> for more info about the non profit organization.
 
