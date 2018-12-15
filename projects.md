@@ -1,5 +1,17 @@
 # Projects
 
+## Text Templates (available on Play Store)
+
+<img src="https://i.imgur.com/Ni8CS87.png" width=300 />
+
+Check <a href="https://play.google.com/store/apps/details?id=texttemp.ps.texttemplates">Play Store</a> for more information, images, reviews and of course, do give it a try! 
+
+## Nakshatra Creations (available on Play Store and App Store(soon))
+
+<img src="https://i.imgur.com/UGtD8kk.png" width=300 />
+
+Check <a href="https://play.google.com/store/apps/details?id=org.nakshatracreations.app">Play Store</a> for more information, images and to try it out! Check Nakshatra Creations <a href="http://nakshatracreations.org/index.html">website</a> for more info about the non profit organization.
+
 ## Animated List
 
 ![](https://media.giphy.com/media/4N99ISJvzWsOpAQlfq/giphy.gif)
