@@ -1,5 +1,11 @@
 # Projects
 
+## Spot ( Play/Pause Video using gestures )
+
+![](https://media.giphy.com/media/69yrVvRE3ceqjrhrfQ/giphy.gif)
+
+Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
+
 ## Text Templates (available on Play Store)
 
 <img src="https://i.imgur.com/Ni8CS87.png" width=300 />
@@ -62,8 +68,3 @@ Code : https://github.com/prasannals/Chopper
 
 Link to play game : https://prasannals.github.io/Chopper/
 
-## Simon Says
-
-![GamePlay](https://media.giphy.com/media/5ZXzTqZuCURJXMHUqn/giphy.gif)
-
-Code : https://github.com/prasannals/SimonSays
