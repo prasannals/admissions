@@ -49,3 +49,21 @@ Demo - https://www.youtube.com/watch?v=bJnn4mde3lg
 ![](https://media.giphy.com/media/5UwwPo6QEUTYbXOKB3/giphy.gif)
 
 Demo - https://www.youtube.com/watch?v=qJ92qRCitk0
+
+## Chopper
+
+#### Light Theme
+![GamePlay](https://media.giphy.com/media/cI4tpm7N0s5C3s8Pju/giphy.gif)
+
+#### Dark Theme
+![GamePlay](https://media.giphy.com/media/pcKOnyeZiMvguEzJjZ/giphy.gif)
+
+Code : https://github.com/prasannals/Chopper
+
+Link to play game : https://prasannals.github.io/Chopper/
+
+## Simon Says
+
+![GamePlay](https://media.giphy.com/media/5ZXzTqZuCURJXMHUqn/giphy.gif)
+
+Code : https://github.com/prasannals/SimonSays
