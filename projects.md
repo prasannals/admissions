@@ -22,7 +22,7 @@ YouTube link to Demo and Explanation - https://www.youtube.com/watch?v=KsHb4U13h
 
 Code and JAR Files (to execute the project) - https://github.com/prasannals/Echo
 
-## Text Templates (available on Play Store)
+## Text Templates (available on Play Store, 15k+ downloads)
 
 <img src="https://i.imgur.com/Ni8CS87.png" width=270 /> <img src="https://i.imgur.com/6j5g8ka.png" width=270 /> <img src="https://i.imgur.com/ufWcDBG.png" width=270 />
 
