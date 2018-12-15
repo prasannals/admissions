@@ -2,7 +2,7 @@
 
 ## Spot ( Play/Pause Video using gestures )
 
-![](https://media.giphy.com/media/69yrVvRE3ceqjrhrfQ/giphy.gif)
+![Imgur](https://media.giphy.com/media/37sn0jEnY5nIjYZyTz/giphy.gif)
 
 Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 
