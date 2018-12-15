@@ -6,6 +6,8 @@
 
 Full Demo - https://www.youtube.com/watch?v=OzzlP0dJIzQ
 
+Code - https://github.com/prasannals/AnimatedList
+
 ## Find Movies
 
 ![](https://media.giphy.com/media/V2VpvnZGDw88s7WfnP/giphy.gif)
