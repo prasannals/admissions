@@ -94,7 +94,7 @@ Code and JAR Files (to execute the project) - https://github.com/prasannals/Echo
 * App has a list of videos which is dynamically retrieved from backend and shown to the user along with a thumbnail. 
 * Opens the YouTube app with selected video upon clicking the video. 
 * Push Notifications can be send to notify users when a new video is released.
-* Check <a href="https://play.google.com/store/apps/details?id=org.nakshatracreations.app">Play Store</a> for more information, images and to try it out! Check Nakshatra Creations <a href="http://nakshatracreations.org/index.html">website</a> for more info about the non profit organization.
+* Check <a href="https://play.google.com/store/apps/details?id=org.nakshatracreations.app">Play Store</a> for more information, images and to try it out! Check Nakshatra Creations <a href="http://nakshatracreations.org/index.html">website</a> for more info about the organization.
 
 <strong>Under the Hood</strong>
 * Built using React Native and Firebase.
