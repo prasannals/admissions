@@ -44,17 +44,43 @@ YouTube link to Demo and Explanation - https://www.youtube.com/watch?v=KsHb4U13h
 
 Code and JAR Files (to execute the project) - https://github.com/prasannals/Echo
 
+<strong>Functionality</strong>
+
+* Echo extracts features from a graph and produces an audio which is representative of that graph.
+* This can be applied to any graph, but is intended to be used with social network graphs. 
+* There are two audio "channels" that you may listen to -
+  1. Friend Cluster - Plays a sound representative of any node "n" based on how closely knit (based on clustering coefficient) his network is.
+  2. Similarity - Given that the observer is a node "n1", it plays a sound representative of any node "n2" based on how similar n1 and n2's network is.
+* Refer the <a href="https://drive.google.com/file/d/0B5mK3-MF9-FJcEpjeVE5NERXRXc/view?usp=sharing">paper</a> I've written on this topic for an in depth explanation.
+
+<strong>Under the Hood</strong>
+* Implementation is done using Java.
+* Graph visualization is done using JUNG library and audio is produced using Beads library for Java.
+
 ## Text Templates (available on Play Store, 15k+ downloads)
 
 <img src="https://i.imgur.com/Ni8CS87.png" width=270 /> <img src="https://i.imgur.com/6j5g8ka.png" width=270 /> <img src="https://i.imgur.com/ufWcDBG.png" width=270 />
 
-Check <a href="https://play.google.com/store/apps/details?id=texttemp.ps.texttemplates">Play Store</a> for more information, images, reviews and of course, do give it a try! 
+<strong>Functionality</strong>
+* Lets the user save frequently used text. The user can later send the text to any application on their phone with just a click of a button.
+* Check <a href="https://play.google.com/store/apps/details?id=texttemp.ps.texttemplates">Play Store</a> for more information, images, reviews and of course, do give it a try!
+
+<strong>Under the Hood</strong>
+* Created using Java (native android).
 
 ## Nakshatra Creations (available on Play Store and App Store(soon))
 
 <img src="https://i.imgur.com/UGtD8kk.png" width=300 /> <img src="https://i.imgur.com/i1SJoOm.png" width=300 />
 
-Check <a href="https://play.google.com/store/apps/details?id=org.nakshatracreations.app">Play Store</a> for more information, images and to try it out! Check Nakshatra Creations <a href="http://nakshatracreations.org/index.html">website</a> for more info about the non profit organization.
+<strong>Functionality</strong>
+* Android and iOS app for Nakshatra Creations, a non profit organization focused on entertainment. 
+* App has a list of videos which is dynamically retrieved from backend and shown to the user along with a thumbnail. 
+* Opens the YouTube app with selected video upon clicking the video. 
+* Push Notifications can be send to notify users when a new video is released.
+* Check <a href="https://play.google.com/store/apps/details?id=org.nakshatracreations.app">Play Store</a> for more information, images and to try it out! Check Nakshatra Creations <a href="http://nakshatracreations.org/index.html">website</a> for more info about the non profit organization.
+
+<strong>Under the Hood</strong>
+* Built using React Native and Firebase.
 
 ## Animated List
 
