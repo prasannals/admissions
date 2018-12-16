@@ -84,11 +84,26 @@ Code and JAR Files (to execute the project) - https://github.com/prasannals/Echo
 
 ## Animated List
 
-![](https://media.giphy.com/media/4N99ISJvzWsOpAQlfq/giphy.gif)
-
 Full Demo - https://www.youtube.com/watch?v=OzzlP0dJIzQ
 
 Code - https://github.com/prasannals/AnimatedList
+
+<strong>Functionality</strong>
+* Language and interpreter for the language to help visualize lists.
+* <strong>The language</strong>
+  1. add **element**
+  2. delete **index**
+  3. highlight **index**
+  4. set **index**,**element**
+  5. swap **index**,**index**
+* Compile and feed the program with the file with each instuction on a separate line.
+* Output
+
+![](https://media.giphy.com/media/4N99ISJvzWsOpAQlfq/giphy.gif)
+
+<strong>Under the Hood</strong>
+* Built using C++
+* Uses OpenGL for visualization.
 
 ## Find Movies
 
@@ -98,15 +113,27 @@ App Demo - https://www.youtube.com/watch?v=Qdl_GgNQww0
 
 Code - https://github.com/prasannals/FindMovies
 
+* Helps in finding popular/highest rated movies. 
+* Has an infinite list of movies which will be sorted according to popularity/ratings. 
+* Clicking on any movie gives a short description of the movie, poster, ratings, links to trailers(launches YouTube app on click) and user reviews. 
+* User will also be able to save their favorite movies for viewing it offline(data will be stored in a SQLite database locally).
+* Built using Java (native android).
+
 ## Earthquake Map
 
 ![](https://media.giphy.com/media/5sYtqIVY4bKkDxWtz6/giphy.gif)
 
-#### On clicking a city, earthquakes close to that city will be displayed
-<img src="https://i.imgur.com/rp15LOa.png" width="500" />
+<strong>Functionality</strong>
+* Displays a map on which the past week's earthquakes (data is retrieved from  are shown using markers.
+* Allows for zoom into/out of map and scrolling the map using the mouse.
+* On clicking a city, earthquakes close to that city will be displayed
+  <img src="https://i.imgur.com/rp15LOa.png" width="500" />
+* On clicking an earthquake, more information about that earthquake will be displayed
+  <img src="https://i.imgur.com/kAK86Ov.png" width="500" />
+* Done as a part of <a href="https://www.coursera.org/learn/object-oriented-java?specialization=java-object-oriented">Object Oriented Java Programming</a> course at Coursera.
 
-#### On clicking an earthquake, more information about that earthquake will be displayed
-<img src="https://i.imgur.com/kAK86Ov.png" width="500" />
+<strong>Under The Hood</strong>
+* Built using Processing extension for Java and UnfoldingMaps for Processing. The map is provided by GoogleMapProvider.
 
 ## Smart Text Editor
 
