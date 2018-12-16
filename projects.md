@@ -36,6 +36,23 @@ Expo Link (download the <a href="https://play.google.com/store/apps/details?id=h
 * Created using <a href="https://facebook.github.io/react-native/">React Native</a> (apps are written in JavaScript) and the <a href="https://expo.io/">Expo</a> framework. 
 * Backend is written in Python. Uses Flask server.
 
+## VTU results parsing and analysis
+
+<strong>Functionality</strong>
+* Scraped data from all **180+ engineering colleges** and from 6 different engineering divisions (CS, EC etc) for the year 2017.
+* **100,000+** result data was scrapped overall.
+* Processed and stored the data in a database.
+* Created **summary**, **visualization** of results, **comparison** between branches and colleges and performed some **adhoc data analysis** on the obtained results.
+
+<strong>Under the Hood</strong>
+* Used **python** for web scraping and data analysis.
+* **SQLite** was used to store the data.
+* **pandas** was used for data analysis.
+* **matplotlib** and **PlotLy** were used for visualization.
+* **sklearn** was used for predictive analysis. **Random Forests** was used to infer the most characteristic features of high scoring students.
+
+(data and inferences can't be made public for legal reasons. Which is why I'm not not posting it here)
+
 ## Echo
 
 ![Imgur](https://i.imgur.com/lL0j0hH.png)
