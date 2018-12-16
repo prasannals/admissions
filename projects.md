@@ -190,3 +190,12 @@ Link to play game : https://prasannals.github.io/Chopper/
 * Press SPACE to elevate the helicopter and avoid obstacles.
 * <strong>Purpose of creating this project was to learn purely functional programming (using PureScript)</strong>
 * Check https://github.com/prasannals/SimonSays for another game created with the same intention of getting used to pure functional languages.
+
+## Machine Learning Projects done as a part of Machine Learning courses at Coursera
+
+1. Boston Housing Price Prediction (Polynomial Regression, Ridge Regression, Lasso Regression)
+2. Amazon Baby Product Review Sentiment Analysis (Logistic Regression, TFIDF)
+3. MNIST Digit Classification (Neural Networks, Logistic Regression, CNN)
+4. Email Spam Classification (SVM)
+5. Image Compression (k-means)
+6. Movie Recommendation (MovieLens dataset, using Collaborative Filtering)
