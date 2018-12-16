@@ -6,6 +6,15 @@
 
 Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 
+<strong>Functionality</strong>
+* Play/Pause video on VLC Media Player when the hand is raised up (with fingers spread out and palm facing towards the camera)
+* Swipe hand left/right to skip backward/forward in the video (in progress)
+
+<strong>Under the Hood</strong>
+* Uses a regular web camera to capture the video.
+* Hand Detection is done using <a href="https://arxiv.org/pdf/1512.02325.pdf">SSD</a>.
+* PyTorch is used for implementation. PyAutoGUI is for GUI automation (play/pause) video.
+
 ## Image Source
 
 <img src="https://i.imgur.com/9xZtAPU.png" width="250" /> <img src="https://i.imgur.com/P1tdTeK.png" width="250" /> <img src="https://i.imgur.com/Pmis4zG.png" width="250" />
@@ -13,6 +22,19 @@ Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 Prediction Demo - https://youtu.be/Fe8uBVMcH8U
 
 Expo Link (download the <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">Expo app on Play Store</a> to try Image Source) - https://expo.io/@prasannals/image-source
+
+<strong>Functionality</strong>
+* App is aimed at helping computer vision practitioners collect and send data to their predictive ML models easily.
+* Users can click pics, categorize and store the pics in folders within the app.
+* Send all the pics to the server with one click.
+* Prediction can be done using existing the phones camera. The image will be sent to server and the prediction will be displayed.
+* Can remotely signal the ML model to train itself on the data.
+* In the backend, the user of the framework has to implement "train" and "predict" methods and has to pass it into the framework which then handles setting up server, receiving images, storing images, delegating requests to appropriate methods and returning prediction responses.
+
+
+<strong>Under the Hood</strong>
+* Created using <a href="https://facebook.github.io/react-native/">React Native</a> (apps are written in JavaScript) and the <a href="https://expo.io/">Expo</a> framework. 
+* Backend is written in Python. Uses Flask server.
 
 ## Echo
 
