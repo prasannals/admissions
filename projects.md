@@ -124,7 +124,7 @@ Code - https://github.com/prasannals/FindMovies
 ![](https://media.giphy.com/media/5sYtqIVY4bKkDxWtz6/giphy.gif)
 
 <strong>Functionality</strong>
-* Displays a map on which the past week's earthquakes (data is retrieved from  are shown using markers.
+* Displays a map on which the past week's earthquakes (data is retrieved online from <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.atom">here</a>)  are shown using markers.
 * Allows for zoom into/out of map and scrolling the map using the mouse.
 * On clicking a city, earthquakes close to that city will be displayed
   <img src="https://i.imgur.com/rp15LOa.png" width="500" />
