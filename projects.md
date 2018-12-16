@@ -141,11 +141,21 @@ Code - https://github.com/prasannals/FindMovies
 
 Demo - https://www.youtube.com/watch?v=bJnn4mde3lg
 
+* Auto suggest feature while typing(using Trie data structure).
+* Checks for spelling mistakes when spell check is turned on.
+* Scores the readability of a text using Flesch Score.
+* Generates text using Markov Text Generation.
+* Done as a part of <a href="https://www.coursera.org/learn/data-structures-optimizing-performance?specialization=java-object-oriented">Data Structures and Performance</a> course at Coursera.
+
 ## Routing on Maps
 
 ![](https://media.giphy.com/media/5UwwPo6QEUTYbXOKB3/giphy.gif)
 
 Demo - https://www.youtube.com/watch?v=qJ92qRCitk0
+
+* Finds and displays the shortest path between two intersections.
+* Option to choose from BFS, Dijkstra's and A* algorithm.
+* Done as a part of <a href="https://www.coursera.org/learn/advanced-data-structures?specialization=java-object-oriented">Advanced Data Structures</a> course at Coursera.
 
 ## Chopper
 
@@ -159,3 +169,7 @@ Code : https://github.com/prasannals/Chopper
 
 Link to play game : https://prasannals.github.io/Chopper/
 
+* The classic Chopper game created using <a href="http://www.purescript.org/">PureScript</a> and Presto DOM (<a href="https://juspay.in/">Juspay's</a> framework). 
+* Press SPACE to elevate the helicopter and avoid obstacles.
+* <strong>Purpose of creating this project was to learn purely functional programming (using PureScript)</strong>
+* Check https://github.com/prasannals/SimonSays for another game created with the same intention of getting used to pure functional languages.
