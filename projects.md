@@ -23,6 +23,8 @@ Prediction Demo - https://youtu.be/Fe8uBVMcH8U
 
 Expo Link (download the <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">Expo app on Play Store</a> to try Image Source) - https://expo.io/@prasannals/image-source
 
+Usage instructions and server code - https://github.com/prasannals/image_source_server
+
 <strong>Functionality</strong>
 * App is aimed at helping computer vision practitioners collect and send data to their predictive ML models easily.
 * Users can click pics, categorize and store the pics in folders within the app.
