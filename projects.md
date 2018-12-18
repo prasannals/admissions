@@ -17,7 +17,7 @@ Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 
 ## Image Source
 
-<img src="https://i.imgur.com/9xZtAPU.png" width="250" /> <img src="https://i.imgur.com/P1tdTeK.png" width="250" /> <img src="https://i.imgur.com/Pmis4zG.png" width="250" />
+<img src="https://i.imgur.com/9xZtAPU.png" width="250" /> <img src="https://i.imgur.com/P1tdTeK.png" width="250" /> <img src="https://i.imgur.com/cpQOZ9K.png" width="250" />
 
 Prediction Demo - https://youtu.be/Fe8uBVMcH8U
 
