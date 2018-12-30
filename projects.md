@@ -2,7 +2,7 @@
 
 ## Spot ( Play/Pause Video using gestures )
 
-![Imgur](https://media.giphy.com/media/37sn0jEnY5nIjYZyTz/giphy.gif)
+![](https://media.giphy.com/media/37sn0jEnY5nIjYZyTz/giphy.gif)
 
 Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 
@@ -14,6 +14,24 @@ Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 * Uses a regular web camera to capture the video.
 * Hand Detection is done using <a href="https://arxiv.org/pdf/1512.02325.pdf">SSD</a>.
 * PyTorch is used for implementation. PyAutoGUI is for GUI automation (play/pause) video.
+
+## Sentinel - Face Detection, Face Recognition, Person Detection
+
+![](https://media.giphy.com/media/3ml40csWBxWc9pMEh4/giphy.gif)
+
+Full Video Demo - https://youtu.be/Vh9dNs2pxz8
+
+<strong>Functionality</strong>
+* Face detection and recognition system. Upon detecting a face, sends a mail with persons pic and name attached.
+* If it isn't trained on some face and is therefore unable to recognize a face, it can still the presence of a person and a face and sends a mail saying that some person has arrived (with the pic of the person attached to the mail)
+* Works with any video stream (IP Camera, online video stream, video recording etc. )
+
+<strong>Under the Hood</strong>
+* Uses SSD for person detection. 
+* Uses Haar Cascade for Face Detection. 
+* Uses resnet-34 for face recognition.
+* To denoise and enhance the face detection, face detection is applied on the cropped image of the detected person once a person is detected.
+* Prediction is made after considering multiple frames leading to more robust face recognition.
 
 ## Image Source
 
