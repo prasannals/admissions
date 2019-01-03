@@ -37,6 +37,8 @@ Full Video Demo - https://youtu.be/Vh9dNs2pxz8
 
 <img src="https://i.imgur.com/9xZtAPU.png" width="250" /> <img src="https://i.imgur.com/P1tdTeK.png" width="250" /> <img src="https://i.imgur.com/cpQOZ9K.png" width="250" />
 
+<img src="https://i.imgur.com/0tP88NG.png" width="250" /> <img src="https://i.imgur.com/FXDZJT0.png" width="250" /> <img src="https://i.imgur.com/FOVTaYw.png" width="250" />
+
 Prediction Demo - https://youtu.be/Fe8uBVMcH8U
 
 Expo Link (download the <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">Expo app on Play Store</a> to try Image Source) - https://expo.io/@prasannals/image-source
