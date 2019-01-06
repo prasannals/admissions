@@ -19,7 +19,7 @@ Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 
 ![](https://media.giphy.com/media/3ml40csWBxWc9pMEh4/giphy.gif)
 
-Full Video Demo - https://youtu.be/Vh9dNs2pxz8
+Full Video Demo - https://youtu.be/Vh9dNs2pxz8 (face recognition model trained on my face(Prasanna) and my cousin's face (Tejas) but not on my moms face (and hence says "a person has arrived") )
 
 <strong>Functionality</strong>
 * Face detection and recognition system. Upon detecting a face, sends a mail with persons pic and name attached.
