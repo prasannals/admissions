@@ -99,9 +99,25 @@ Learning Outcomes
 
 Course Link : https://course.fast.ai/lessons/lessons.html
 
-## Practical Deep Learning for Coders Part 2  (ongoing)
+* Lesson 1 - Image Recognition
+* Lesson 2 - CNNs
+* Lesson 3 - Overfitting
+* Lesson 4 - Embeddings
+* Lesson 5 - NLP
+* Lesson 6 - RNNs
+* Lesson 7 - CNN Architecture
+
+## Practical Deep Learning for Coders Part 2
 
 Course Link : https://course.fast.ai/lessons/lessons2.html
+
+* Lesson 1 - Object Detection
+* Lesson 2 - Single Shot Multibox Detector (SSD)
+* Lesson 3 - NLP Classification and Translation
+* Lesson 4 - Neural Translation
+* Lesson 5 - Generative Adverarial Networks (GANS)
+* Lesson 6 - Image Enhancement
+* Lesson 7 - Super Resolution; Image Segmentation with UNET
 
 ## Object Oriented Java Programming: Data Structures and Beyond Specialization
 
