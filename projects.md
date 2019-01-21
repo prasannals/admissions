@@ -8,6 +8,12 @@ Full Video Demo - https://youtu.be/s1Ac4gcfNO4
 
 <strong>Functionality</strong>
 * Keeps track of the number of repetitions performed on the shoulder press workout.
+* Can be extended to inform user of bad form during workout.
+
+<strong>Under the Hood</strong>
+* Tracks the dumbbells as well as the persons face.
+* If an imaginary line, say L1, is drawn from the center of the persons face to the center of the dumbbell and another imaginary line, say L2, is drawn from the center of the persons face vertically to the top of the screen, the algorithm calculates the angle between L1 and L2 for both the dumbells.
+* Certain angle thresholds are defined to track the reps. Currently 35 and 65 degrees but more research needs to be done to find the optimal angle. Currently, if both angles made by dumbbells go below 35 degrees and then above 65 degrees, the number of reps is increased by 1.
 
 ## Spot ( Play/Pause Video using gestures )
 
