@@ -1,5 +1,14 @@
 # Projects
 
+## \*\*NEW\*\* Shoulder Press Rep Counter
+
+![](https://media.giphy.com/media/5qFCEOFVt85z8nH3KP/giphy.gif)
+
+Full Video Demo - https://youtu.be/s1Ac4gcfNO4
+
+<strong>Functionality</strong>
+* Keeps track of the number of repetitions performed on the shoulder press workout.
+
 ## Spot ( Play/Pause Video using gestures )
 
 ![](https://media.giphy.com/media/37sn0jEnY5nIjYZyTz/giphy.gif)
