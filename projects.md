@@ -1,6 +1,6 @@
 # Projects
 
-## \*\*NEW\*\* Shoulder Press Rep Counter
+## Shoulder Press Rep Counter
 
 ![](https://media.giphy.com/media/5qFCEOFVt85z8nH3KP/giphy.gif)
 
