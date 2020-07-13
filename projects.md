@@ -2,7 +2,7 @@
 
 ## Shoulder Press Rep Counter
 
-![](https://media.giphy.com/media/ekN2X2Cx0jGdUBOlDe/giphy.gif)
+![](https://media.giphy.com/media/WseI9RGw50J7KA3ECd/giphy.gif)
 
 Full Video Demo - https://youtu.be/s1Ac4gcfNO4
 
