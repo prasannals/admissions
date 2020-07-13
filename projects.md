@@ -2,7 +2,7 @@
 
 ## Shoulder Press Rep Counter
 
-![](https://media.giphy.com/media/5qFCEOFVt85z8nH3KP/giphy.gif)
+![](https://media.giphy.com/media/ekN2X2Cx0jGdUBOlDe/giphy.gif)
 
 Full Video Demo - https://youtu.be/s1Ac4gcfNO4
 
@@ -32,7 +32,7 @@ Full Video Demo - https://www.youtube.com/watch?v=1SIyaon6S50
 
 ## Sentinel - Face Detection, Face Recognition, Person Detection
 
-![](https://media.giphy.com/media/3ml40csWBxWc9pMEh4/giphy.gif)
+![](https://media.giphy.com/media/Lkm1Fox6uM4iNx8CE7/giphy.gif)
 
 Full Video Demo - https://youtu.be/Vh9dNs2pxz8 (face recognition model trained on my face(Prasanna) and my cousin's face (Tejas) but not on my moms face (and hence says "a person has arrived") )
 
@@ -193,7 +193,7 @@ Code - https://github.com/prasannals/FindMovies
 
 ## Smart Text Editor
 
-![](https://media.giphy.com/media/7Xmg47PkK1UEMCr1KE/giphy.gif)
+![](https://media.giphy.com/media/Vc6AYA8HkSVBXcf4AM/giphy.gif)
 
 Demo - https://www.youtube.com/watch?v=bJnn4mde3lg
 
@@ -205,7 +205,7 @@ Demo - https://www.youtube.com/watch?v=bJnn4mde3lg
 
 ## Routing on Maps
 
-![](https://media.giphy.com/media/5UwwPo6QEUTYbXOKB3/giphy.gif)
+![](https://media.giphy.com/media/TGcHK61jlNEKbowYUF/giphy.gif)
 
 Demo - https://www.youtube.com/watch?v=qJ92qRCitk0
 
